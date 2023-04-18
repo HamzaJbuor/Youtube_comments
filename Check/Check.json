@@ -1,1 +1,11 @@
-
+{
+  "getData": true,
+  "Main": [
+    {
+      "check": false,
+      "news": "اللهم صلي على سيدنا محمد , لا اله الا الله ",
+      "update": 1,
+      "api": "key"
+    }
+  ]
+}
