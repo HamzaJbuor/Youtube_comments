@@ -1,69 +1,11 @@
 {
   "getData": true,
-  "data_mapLink": "ture",
-  "data_mapLink_tree": "false",
-  "atc": "ture",
-  "admob": "ture",
-  "NameFile": [
-    {
-      "name_livik": "map_formallivik_2.5.0.17325.pak",
-      "name_erangel": "base_part1_2.5.0.17325.pak",
-      "name_Sanhok": "map_savagemain_2.5.0.17325.pak",
-      "name_vikendi": "map_borderland_2.5.0.17325.pak",
-      "name_black": "map_notbasicin_2.5.0.17325.pak"
-    }
-  ],
-  "mapLink": [
-    {
-      "news_mapLink": "يجب عليك تفعيلها كل مرة تدخل اللعبة",
-      "livik": "https://hussiendaood.com/hamza/map_formallivik_2.5.0.17325.pak",
-      "erangel": "https://archive.org/download/base_part1_2.5.0.17325_202305/base_part1_2.5.0.17325.pak",
-      "Sanhok": "",
-      "vikendi": "",
-      "black": ""
-    }
-  ],
-  "mapLink_tree": [
-    {
-      "news_mapLink_tree": "يجب عليك تفعيلها كل 8 ساعات",
-      "livik_tree": "",
-      "erangel_tree": "",
-      "Sanhok_tree": "",
-      "vikendi_tree": "",
-      "black_tree": "false"
-    }
-  ],
   "Main": [
     {
       "check": false,
       "news": "اللهم صلي على سيدنا محمد , لا اله الا الله ",
-      "update": 1
-    }
-  ],
-  "Smoke": [
-    {
-      "v64": 17325,
-      "v32": 17320,
-      "n64gl": "main.17325.com.tencent.ig.obb",
-      "n32gl": "main.17320.com.tencent.ig.obb",
-      "n64kr": "main.17325.com.pubg.krmobile.obb",
-      "n32kr": "main.17320.com.pubg.krmobile.obb",
-      "data": false,
-      "gl64": "link64gl",
-      "gl32": "link32gl",
-      "kr64": "link64kr",
-      "kr32": "link32kr"
-    }
-  ],
-  "vipLinkData": [
-    {
-      "vipLink1": "iwJCwKWluPVah/bcxDpLKoWFPJB0296p5noWVkSPgR71zDMGszOlMrBkkvv8sUp2wqWZJjj4HUwBXib/EKoqNg=="
-    }
-  ],
-  "VersionF": [
-    {
-      "V1": 1,
-      "V2": 1
+      "update": 1,
+      "api": "AIzaSyD06K8q9MpUKcd6cmZyp72uo1jz99ci89I"
     }
   ]
 }
